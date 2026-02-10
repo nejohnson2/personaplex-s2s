@@ -1,4 +1,4 @@
-# Peronsapex Speech-to-Speech
+# Personsapex Speech-to-Speech
 
 Speech-to-speech inference using [PersonaPlex](https://github.com/NVIDIA/personaplex) by NVIDIA, built on the [Moshi](https://github.com/kyutai-labs/moshi) architecture by Kyutai. Feed in an audio clip with a voice and persona prompt, and get a spoken response back.
 
